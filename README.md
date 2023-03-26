@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Viestar
 - 👀 I’m interested in Artificial Intelligence for hyper intelligent people assistants...
 - 🌱 I’m currently learning Python and Cambridge A levels Computer science, Business and Accounting ...
-- 💞️ I’m looking to collaborate on anything that can grow my career as a developer while contibuting to open source projects
+- 💞️ I’m looking to collaborate on open source projects and anything that can grow my career as a developer.
 - 📫 m.silverbuckson@gmail.com
 
 <!---
