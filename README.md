@@ -1,3 +1,8 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif" width="600" height="200"/>
+</div>
+
 - 👋 Hi, I’m @Viestar
 - ALX
 - 👀 I’m interested in Artificial Intelligence for hyper intelligent people assistants...
