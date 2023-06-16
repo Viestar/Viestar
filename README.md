@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif" width="600" height="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTAyNXg4eG42MmJybHBwZmxud2xkOTd4cXJkNDZxZnVyejFqbjB1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="400" height="200"/>
 </div>
 
 - 👋 Hi, I’m @Viestar
