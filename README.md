@@ -4,7 +4,7 @@
 </div>
 
 - 👋 Hi, I’m @Viestar
-- 🌱 Current: ALX Student
+- 🌱 Current: ALX Student Cohort 12
 - 👀 I’m interested in Artificial Intelligence for hyper intelligent people assistants...
 - 💞️ I’m looking to collaborate on open source projects and anything that can grow my career as a developer.
 - 📫 m.silverbuckson@gmail.com 
