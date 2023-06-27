@@ -3,9 +3,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTAyNXg4eG42MmJybHBwZmxud2xkOTd4cXJkNDZxZnVyejFqbjB1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="400" height="200"/>
 </div>
 
-<div> <img src="https://giphy.com/embed/16bishkovqEjZPmSEe/video" width="480">
-</div>
-
 - 👋 Hi, Call me Viestar
 - 🌱 Current: ALX Student Cohort 12
 - 👀 I’m interested in Artificial Intelligence for hyper intelligent people assistants...
