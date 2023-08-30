@@ -1,7 +1,7 @@
 >> ## Hi 👋, Welcome to my Page!
 
 Username  | Full Name | Email | Phone number | Location
-------- | ------ | ----------- | ----------
+------- | ------ | ----------- | ---------- | ------
 Viestar | Sylivester Mberenge | 📫 m.silverbuckson@gmail.com | +256775056439 | Africa
 
 - 🌱 Currently a student: ALX Africa - Cohort 12
