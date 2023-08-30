@@ -1,14 +1,14 @@
 >> ## Hi 👋, Welcome to my Page!
 
-Username  | Full Name | Email | Phone number
+Username  | Full Name | Email | Phone number | Location
 ------- | ------ | ----------- | ----------
-Viestar | Sylivester Mberenge | 📫 m.silverbuckson@gmail.com | +256775056439
+Viestar | Sylivester Mberenge | 📫 m.silverbuckson@gmail.com | +256775056439 | Africa
 
 - 🌱 Currently a student: ALX Africa - Cohort 12
 - 👀 I’m interested in DevOps and Artificial Intelligence [Hyper intelligent people assistants]
 - 💞️ I’m looking to collaborate on open source projects and anything that can grow my career as a developer.
 
-> ## 🔧 DIGITAL Skills & Tools
+> ### 🔧 DIGITAL Skills & Tools
 > 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 - ![Linux Server](https://img.shields.io/badge/-Linux_Server-333?style=flat-square&logo=Linux&logoColor=white)
