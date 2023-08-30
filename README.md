@@ -6,7 +6,7 @@ Viestar | Sylivester Mberenge | 📫 m.silverbuckson@gmail.com | +256775056439 |
 
 - 🌱 Currently a student: ALX Africa - Cohort 12
 - 👀 I’m interested in DevOps and Artificial Intelligence [Hyper intelligent people assistants]
-- 💞️ I’m looking to collaborate on open source projects and anything that can grow my career as a developer.
+- 💞️ Looking foward to open source collaborations and anything that can grow my career as a Developer.
 
 > ### 🔧 DIGITAL Skills & Tools
 > 
