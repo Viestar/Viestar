@@ -1,7 +1,7 @@
 >> ## Hi 👋, Welcome to my Page!
 
-Username  | Full Name | Email | Phone number | Location | Profile
-------- | ---------- | ----------- | ---------- | ------ | ------
+USERNAME  | FULL NAME | EMAIL ME | WHATSAPP/CALL ME | VISIT ME IN | PROFILE
+--------- | ---------- | ----------- | ---------- | -------- | --------
 Viestar | Sylivester Mberenge | 📫 m.silverbuckson@gmail.com | +256775056439 | Uganda | www.viestar.tech
 
 - 🌱 Currently a student: ALX Africa - Cohort 12
