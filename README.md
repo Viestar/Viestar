@@ -1,8 +1,8 @@
 >> ## Hi 👋, Welcome to my Page!
 
-USERNAME  | FULL NAME | EMAIL | MOBILE | LOCATION | PROFILE
+PROFILE  | FULL NAME | EMAIL | MOBILE | LOCATION | USERNAME
 --------- | ---------- | ----------- | ---------- | -------- | --------
-Viestar | Sylivester Mberenge | m.silverbuckson@gmail.com | +256775056439 | Uganda | www.viestar.tech
+www.viestar.tech | Sylivester Mberenge | m.silverbuckson@gmail.com | +256775056439 | Uganda | Viestar
 
 - 🌱 Currently a student: ALX Africa - Cohort 12
 - 👀 I’m interested in DevOps and Artificial Intelligence [Hyper intelligent people assistants]
@@ -11,7 +11,7 @@ Viestar | Sylivester Mberenge | m.silverbuckson@gmail.com | +256775056439 | Ugan
 > ### 🔧 DIGITAL Skills & Tools
 
  ---- | ---- 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)  | - ![Linux Server](https://img.shields.io/badge/-Linux_Server-333?style=flat-square&logo=Linux&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)  | [- ![Linux Server](https://img.shields.io/badge/-Linux_Server-333?style=flat-square&logo=Linux&logoColor=white)]
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) 
 <!---
 Viestar/Viestar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
