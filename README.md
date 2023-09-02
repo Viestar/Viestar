@@ -1,4 +1,4 @@
->> ## Hi 👋, Welcome to my Page!
+> ## Hi 👋, Welcome to my Page!
 
 PROFILE  | FULL NAME | EMAIL | MOBILE | LOCATION | USERNAME
 --------- | ---------- | ----------- | ---------- | -------- | --------
@@ -8,7 +8,7 @@ www.viestar.tech | Sylivester Mberenge | m.silverbuckson@gmail.com | +2567750564
 - 👀 I’m interested in DevOps and Artificial Intelligence [Hyper intelligent people assistants]
 - 💞️ Looking foward to open source collaborations and anything that can grow my career as a Developer.
 
-> ### 🔧 DIGITAL Skills & Tools
+>> ### 🔧 DIGITAL Skills & Tools
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 - ![Linux Server](https://img.shields.io/badge/-Linux_Server-333?style=flat-square&logo=Linux&logoColor=white)
