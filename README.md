@@ -1,9 +1,5 @@
 > ## Hi 👋, Welcome to my Page!
 
-- 🌱 Currently a student: ALX Africa - Cohort 12
-- 👀 I’m interested in DevOps and Artificial Intelligence [Hyper intelligent people assistants]
-- 💞️ Looking foward to open source collaborations and anything that can grow my career as a Developer.
-
 ================================================================================================
 
 website  | Full Name | Email me | Call/Whatsapp | Base | Instagran
@@ -11,6 +7,12 @@ website  | Full Name | Email me | Call/Whatsapp | Base | Instagran
 www.viestar.tech | Sylivester Mberenge | m.silverbuckson@gmail.com | +256775056439 | Uganda | Viestar
 
 ================================================================================================
+
+
+- 🌱 Currently a student: ALX Africa - Cohort 12
+- 👀 I’m interested in DevOps and Artificial Intelligence [Hyper intelligent people assistants]
+- 💞️ Looking foward to open source collaborations and anything that can grow my career as a Developer.
+
 
 ### 🔧 DIGITAL Skills & Tools
 
