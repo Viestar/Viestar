@@ -4,11 +4,15 @@
 - 👀 I’m interested in DevOps and Artificial Intelligence [Hyper intelligent people assistants]
 - 💞️ Looking foward to open source collaborations and anything that can grow my career as a Developer.
 
+=====================================================================================
+
 PROFILE  | FULL NAME | EMAIL | MOBILE | LOCATION | USERNAME
 --------- | ---------- | ----------- | ---------- | -------- | --------
 www.viestar.tech | Sylivester Mberenge | m.silverbuckson@gmail.com | +256775056439 | Uganda | Viestar
 
->> ### 🔧 DIGITAL Skills & Tools
+======================================================================================
+
+### 🔧 DIGITAL Skills & Tools
 
 <p>
 <a href="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
