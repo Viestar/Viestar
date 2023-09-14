@@ -9,10 +9,11 @@ www.viestar.tech | Sylivester Mberenge | m.silverbuckson@gmail.com | +2567750564
 ================================================================================================
 
 
--     🌱 Currently a student: ALX Africa - Cohort 12
--     💞️ I’m interested in DevOps and Artificial Intelligence [Hyper intelligent people assistants]
--     Hopefully one day Ai takes over all the Jobs suchthat humans stop working and start living.
--     👀 Looking foward to open source collaborations and anything that can grow my career as a Developer.
+- 🌱 Currently a student: ALX Africa - Cohort 12
+- 💞️ I’m interested in DevOps and Artificial Intelligence [Hyper intelligent people assistants]
+- 👀 Looking foward to open source collaborations and anything that can grow my career as a Developer.
+-     Hopefully one day Ai takes over all the Jobs such that humans stop working and start living.
+
 
 
 ### 🔧 DIGITAL Skills & Tools
